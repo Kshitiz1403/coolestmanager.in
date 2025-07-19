@@ -30,18 +30,19 @@ Because sending a WhatsApp message saying "Happy Birthday" is so 2019. We're in 
 
 ## Fun Facts
 
-- This website has more animations than a Pixar movie
 - The images have been scientifically renamed for maximum humor
-- No stock photos were harmed in the making of this website
 - 100% authentic Kushal content, no artificial additives
+- Features insider intelligence provided by Lopa (Kushal's wife)
 
-## Technical Mumbo Jumbo
+## Special Thanks
 
-It's a website. It works. What more do you need to know?
+A huge shoutout to **Lopa** (Kushal's better half) for providing the photos and insider knowledge that made this website possible. 
+
+Turns out the best content comes from someone who actually lives with the coolest manager!
 
 ## Warranty
 
-This website comes with a 0% guarantee that it will make you as cool as Kushal. Side effects may include uncontrollable smiling and the urge to create birthday websites for other people.
+This website comes with a 0% guarantee that it will make you as cool as Kushal. Side effects may include uncontrollable smiling.
 
 ---
 
